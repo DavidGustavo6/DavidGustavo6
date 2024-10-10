@@ -18,13 +18,11 @@
 ![PHP](https://img.shields.io/badge/PHP-4B4B4B?style=for-the-badge&logo=php&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter-4B4B4B?style=for-the-badge&logo=flutter&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-4B4B4B?style=for-the-badge&logo=jupyter&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-4B4B4B?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-4B4B4B?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-4B4B4B?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-4B4B4B?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-4B4B4B?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4B4B4B?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4B4B4B?style=for-the-badge&logo=docker&logoColor=white)
 
 
