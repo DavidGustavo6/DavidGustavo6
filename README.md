@@ -14,7 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-4B4B4B?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-4B4B4B?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-4B4B4B?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4B4B4B?style=for-the-badge&logo=php&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter-4B4B4B?style=for-the-badge&logo=flutter&logoColor=white)
