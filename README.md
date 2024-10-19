@@ -1,6 +1,6 @@
 # Hello, I'm David Gustavo! 👋
 
-🎓 **Third-year student** of the Bachelor's Degree in Informatics and Computing Engineering, @FEUP 📚
+🎓 **Third-year student** of the Bachelor's Degree in Informatics and Computing Engineering, @FEUP 
 
 ---
 
