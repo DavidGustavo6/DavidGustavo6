@@ -9,8 +9,8 @@
 
 ![Java](https://img.shields.io/badge/Java-4B4B4B?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B4B4B?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-4B4B4B?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4B4B4B?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-4B4B4B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-4B4B4B?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4B4B4B?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-4B4B4B?style=for-the-badge&logo=cplusplus&logoColor=white)
