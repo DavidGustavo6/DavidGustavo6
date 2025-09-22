@@ -1,7 +1,8 @@
 # Hello, I'm David Gustavo! 👋
 
-🎓 **Third-year student** of the Bachelor's Degree in Informatics and Computing Engineering, @FEUP.  
-🔭 **Member of ACM FEUP**, a student association dedicated to promoting computing and technological innovation at FEUP.
+🎓 Bachelor's Degree in **Informatics and Computing Engineering**, @FEUP.  
+🔭 Master's Degree in **Artificial Intelligence** @ FEUP & FCUP.  
+🌱 **Member of ACM FEUP**, a student association dedicated to promoting computing and technological innovation at FEUP.
 
 ---
 
