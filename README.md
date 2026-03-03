@@ -6,11 +6,7 @@
 
 ---
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGustavo6&layout=compact&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 
